@@ -1709,10 +1709,12 @@ store.subscribe((key) => {
     }
 });
 
-window.api.on('toggle-admin-mode', () => {
-    store.data.adminMode = !store.data.adminMode;
-    console.log('Admin Mode:', store.data.adminMode);
-});
+if (window.api) {
+    window.api.on('toggle-admin-mode', () => {
+        store.data.adminMode = !store.data.adminMode;
+        console.log('Admin Mode:', store.data.adminMode);
+    });
+}
 
 
 
