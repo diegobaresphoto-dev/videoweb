@@ -1,0 +1,672 @@
+[2025-12-14T23:17:12.753Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:12.752Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:12.753Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:12.753Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:19.604Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:19.605Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:19.605Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:19.605Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:19.606Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:17:19.606Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","galleryCount":1,"hasLegacyImages":false}
+[2025-12-14T23:19:22.374Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:19:22.375Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:19:22.375Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:19:22.375Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:19:23.070Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:19:23.070Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:19:23.931Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:19:23.931Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:19:23.932Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:19:23.932Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:15.183Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:15.183Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:15.183Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:15.183Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:15.184Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:15.184Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:15.184Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:15.184Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:55.771Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:55.772Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:55.772Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:55.772Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:55.772Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:55.772Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:22:55.772Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:22:55.773Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:36.571Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:36.571Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:36.571Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:36.571Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:36.572Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:36.572Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:36.572Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:36.572Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:49.663Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:49.664Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:49.664Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:49.664Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://www.on-digital.es/5776-large_default/jak-and-daxter-platinum-ps2.jpg"}
+[2025-12-14T23:24:59.729Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:59.729Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:24:59.730Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:24:59.730Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:06.839Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:06.839Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:06.839Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:06.839Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:06.840Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:06.840Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:06.840Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:06.840Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:06.840Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:06.840Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:06.840Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:06.840Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:09.756Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:09.756Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:09.756Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:09.756Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:57.352Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:57.352Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:57.353Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:57.353Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:58.982Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:58.982Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:25:58.983Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:25:58.983Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:27:44.443Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:27:44.443Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:27:44.443Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:27:44.443Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:27:44.444Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:27:44.444Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:27:44.444Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:27:44.444Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:27:48.069Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:27:48.069Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:27:48.069Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:27:48.069Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:28:12.599Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:12.599Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:12.600Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:28:12.600Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:28:28.961Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:28.961Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:28.961Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:28:28.961Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:28:29.624Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:29.624Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:29.624Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:28:29.624Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:28:29.625Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":1,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:29.625Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:28:29.625Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:28:29.625Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:29:16.901Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:29:16.901Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:29:16.901Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:29:16.901Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:29:23.191Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:29:23.191Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:29:23.191Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:29:23.191Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:33:56.986Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:33:56.987Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:33:56.988Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:33:56.988Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:33:56.988Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:33:56.988Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:33:56.989Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:33:56.989Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:34:57.249Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:34:57.250Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:34:57.250Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:34:57.250Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:34:57.251Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:34:57.252Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:34:57.252Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:34:57.252Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:34:57.256Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:34:57.256Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:34:57.256Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:34:57.256Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.956Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.957Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.957Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.957Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.958Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.958Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.958Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.958Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.959Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.959Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.959Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.960Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.961Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.961Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.961Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.962Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:00.964Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:00.965Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.957Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.958Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.959Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.959Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.960Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.960Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.960Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.960Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.961Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.961Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.961Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.961Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.964Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.964Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.964Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.964Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:35:12.965Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:35:12.965Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.923Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.924Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.924Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.925Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.925Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.925Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.925Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.926Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.926Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.926Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.926Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.929Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.929Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.929Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:02.929Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.930Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:02.930Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.506Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.506Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.506Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.506Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.507Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.507Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.507Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.507Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.508Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.508Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.508Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.508Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.511Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.511Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.511Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:19.511Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.512Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:19.512Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:27.686Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:27.686Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:27.687Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:27.687Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:37:27.688Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:37:27.689Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:39:08.530Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:39:08.530Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:39:08.530Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:39:08.530Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:39:08.531Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:39:08.531Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:39:08.532Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:39:08.532Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:39:08.535Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:39:08.535Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:39:08.535Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:39:08.536Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:55:57.005Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:55:57.005Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:55:57.006Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:55:57.006Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:55:57.009Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:55:57.009Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:55:57.009Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:55:57.010Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:56:44.824Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:56:44.825Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:56:44.825Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:56:44.825Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:56:44.825Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:56:44.825Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:56:44.825Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:56:44.825Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:56:44.825Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:56:44.825Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:56:44.825Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:56:44.825Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:56:45.686Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:45.686Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:45.686Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:45.686Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:45.686Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:45.686Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:45.687Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:45.687Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:45.689Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:45.689Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:45.689Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:45.689Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:54.831Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:54.831Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:54.832Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:54.832Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:56:54.835Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:56:54.835Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.079Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.079Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.080Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.079Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.080Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.080Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.084Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.084Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.085Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.085Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.085Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.085Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.085Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.085Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.086Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.086Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.086Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.086Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.091Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.091Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.091Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.091Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.091Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.091Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.092Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.092Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.092Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.092Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.092Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.092Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.100Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.100Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.101Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.101Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.101Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.101Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.102Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.102Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.114Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.114Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.114Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.114Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.115Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.116Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.115Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.116Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.116Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.116Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.120Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.121Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.121Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.121Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.121Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.121Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.121Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.121Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.121Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.122Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.123Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.131Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.131Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.132Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.132Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.132Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.132Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.132Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.132Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.132Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.132Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.133Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.134Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.134Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.141Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.141Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.141Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.141Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:05.141Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.141Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.141Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.141Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.142Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.143Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:05.143Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:05.143Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:05.143Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:06.774Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:06.774Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:06.774Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:06.774Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:57:06.774Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.774Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.774Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.775Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.776Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:57:06.776Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:57:06.780Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:57:06.781Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:52.527Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:52.528Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":"sec_1765659679621","galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.529Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.528Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.529Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.529Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.529Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.529Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":"sec_1765659679621","finalUrl":""}
+[2025-12-14T23:58:52.529Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:52.531Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747003020","w":452,"h":452,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:52.531Z] [DEBUG] IMG LOADED OK | DATA: {"id":"item_1765747408221","w":1920,"h":1080,"src":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:54.920Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:54.920Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:54.921Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:54.921Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:54.921Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.921Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.921Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.921Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.921Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.921Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.923Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.922Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.923Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.923Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:54.923Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:54.923Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:54.924Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:54.924Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.924Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.925Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.925Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.925Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:54.925Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:54.925Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.914Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:55.914Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:55.914Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.915Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:55.916Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:55.916Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:55.916Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:55.916Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.916Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:55.917Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.706Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:56.706Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:56.706Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:56.707Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:56.707Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.707Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.707Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.707Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.707Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.707Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.708Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.709Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:56.709Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:56.709Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:56.709Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:56.710Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:56.711Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.262Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:57.262Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:57.262Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:57.262Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.262Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.262Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.263Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:57.264Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:57.264Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:57.264Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:57.264Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.264Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:57.265Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.307Z] [DEBUG] Rendering Item: Check Phone Number Owner | DATA: {"id":"item_1765747003020","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:58.307Z] [DEBUG] [item_1765747003020] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754955036_99j3h.jpg"}
+[2025-12-14T23:58:58.307Z] [DEBUG] [item_1765747408221] ENTERED IF BLOCK (Has Image) | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:58.307Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum | DATA: {"id":"item_1765747408221","view":"Type","sectionId":null,"galleryCount":2,"finalUrl":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754884653_4i136.jpg"}
+[2025-12-14T23:58:58.307Z] [DEBUG] [item_1765756625079_0] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.307Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 1) | DATA: {"id":"item_1765756625079_0","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.307Z] [DEBUG] [item_1765756625084_1] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.307Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 2) | DATA: {"id":"item_1765756625084_1","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 3) | DATA: {"id":"item_1765756625090_2","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] [item_1765756625090_2] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 4) | DATA: {"id":"item_1765756625100_3","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 5) | DATA: {"id":"item_1765756625114_4","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] [item_1765756625100_3] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] [item_1765756625120_5] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 6) | DATA: {"id":"item_1765756625120_5","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] [item_1765756625114_4] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 7) | DATA: {"id":"item_1765756625131_6","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] [item_1765756625131_6] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] Rendering Item: Jak And Daxter The Legacy Of The Precursor Platinum (Copia 8) | DATA: {"id":"item_1765756625140_7","view":"Type","sectionId":null,"finalUrl":""}
+[2025-12-14T23:58:58.308Z] [DEBUG] [item_1765756625140_7] ENTERED ELSE BLOCK (No Image) | DATA: {"url":""}
+[2025-12-14T23:58:59.993Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:58:59.994Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:58:59.996Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:58:59.996Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:58:59.996Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:58:59.996Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:58:59.996Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:58:59.997Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:59:21.035Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:59:21.035Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:59:21.035Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:59:21.036Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-14T23:59:21.036Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-14T23:59:21.036Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:59:21.036Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-14T23:59:21.036Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:00:27.381Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:00:27.382Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:00:27.382Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:00:27.382Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:00:27.387Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:00:27.386Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:00:27.386Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:00:27.387Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:14.672Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:14.672Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:14.672Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:14.672Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:14.673Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:14.673Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:14.673Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:14.673Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:16.058Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:16.058Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:16.058Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:16.059Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:16.059Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:16.059Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:16.059Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:16.059Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:30.880Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:30.881Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:30.884Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:30.884Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:30.884Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:30.884Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:30.884Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:30.884Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.064Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.064Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:32.064Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.064Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.064Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:32.065Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:32.065Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.065Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:32.258Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:32.258Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.258Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.258Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:32.258Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.258Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:32.258Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.258Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}
+[2025-12-15T00:01:32.258Z] [ERROR] Image Load Failed for item item_1765747003020 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.258Z] [INFO] Retrying image for item_1765747003020 with index 1 | DATA: {"url":"https://cdn.techimply.com/uploads/blog/description-image/1835177787731639.png"}
+[2025-12-15T00:01:32.259Z] [ERROR] Image Load Failed for item item_1765747408221 | DATA: {"src":"file:///C:/Users/ek_do/.gemini/antigravity/playground/shimmering-pathfinder/[object%20Object]"}
+[2025-12-15T00:01:32.259Z] [INFO] Retrying image for item_1765747408221 with index 1 | DATA: {"url":"file:///C:/Users/ek_do/Documents/Collectiondata/media/1765754698195_wdn1x.jpg"}

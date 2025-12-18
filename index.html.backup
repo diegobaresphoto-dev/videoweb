@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biblioteca de Juegos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Sidebar Navigation -->
+  <aside class="sidebar">
+    <div class="logo">
+      <div class="logo-icon">🎮</div>
+      <h1>GameClub</h1>
+    </div>
+
+    <nav class="nav-menu">
+      <button class="nav-item active" data-view="dashboard">
+        <span class="nav-icon">📊</span>
+        <span class="nav-text">Dashboard</span>
+      </button>
+      <button class="nav-item" data-view="juegos">
+        <span class="nav-icon">🎮</span>
+        <span class="nav-text">Biblioteca</span>
+      </button>
+      <button class="nav-item" data-view="consolas">
+        <span class="nav-icon">🕹️</span>
+        <span class="nav-text">Consolas</span>
+      </button>
+      <button class="nav-item" data-view="config">
+        <span class="nav-icon">⚙️</span>
+        <span class="nav-text">Ajustes</span>
+      </button>
+    </nav>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <!-- Dashboard View -->
+    <section id="dashboard-view" class="view active">
+      <header class="view-header">
+        <div>
+          <h2 id="app-title-display">Mi Colección</h2>
+          <p class="subtitle">Resumen de tu biblioteca</p>
+        </div>
+      </header>
+
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon">🎮</div>
+          <div class="stat-info">
+            <h3 id="stat-total-juegos">0</h3>
+            <p>Total Juegos</p>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">🕹️</div>
+          <div class="stat-info">
+            <h3 id="stat-total-consolas">0</h3>
+            <p>Consolas</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="dashboard-section">
+        <h3>Consolas con más juegos</h3>
+        <div id="top-consolas" class="top-list"></div>
+      </div>
+    </section>
+
+    <!-- Juegos View -->
+    <section id="juegos-view" class="view">
+      <header class="view-header">
+        <div>
+          <h2>Biblioteca</h2>
+          <p class="subtitle">Explora tu colección</p>
+        </div>
+        <button class="btn-primary" onclick="openModalJuego()">+ Nuevo Juego</button>
+      </header>
+
+      <div class="filters-container">
+        <div class="search-bar-advanced">
+          <input type="text" id="search-juegos" placeholder="Buscar por título..." class="search-input-lg">
+          <select id="filter-consola" class="filter-select">
+            <option value="">Todas las consolas</option>
+          </select>
+          <select id="filter-estado" class="filter-select">
+            <option value="">Estado</option>
+            <option value="Nuevo">Nuevo</option>
+            <option value="Usado">Usado</option>
+          </select>
+        </div>
+        <div class="filters-row-secondary">
+          <input type="text" id="filter-genero" placeholder="Género" class="filter-input-sm">
+          <input type="number" id="filter-anio" placeholder="Año" class="filter-input-sm">
+          <input type="text" id="filter-dev" placeholder="Desarrollador" class="filter-input-sm">
+        </div>
+      </div>
+
+      <div id="juegos-grid" class="games-grid-cover"></div>
+
+      <div class="pagination-controls">
+        <button id="btn-prev-page" class="btn-secondary">Anterior</button>
+        <span id="page-indicator">Página 1</span>
+        <button id="btn-next-page" class="btn-secondary">Siguiente</button>
+      </div>
+    </section>
+
+    <!-- Consolas View -->
+    <section id="consolas-view" class="view">
+      <header class="view-header">
+        <div>
+          <h2>Consolas</h2>
+          <p class="subtitle">Hardware y plataformas</p>
+        </div>
+        <button class="btn-primary" onclick="openModalConsola()">+ Nueva Consola</button>
+      </header>
+      <div class="filters-bar">
+        <input type="text" id="search-consolas" placeholder="Buscar consolas..." class="search-input">
+        <select id="filter-fabricante" class="filter-select">
+      </div>
+      <form id="form-juego">
+        <input type="hidden" name="id">
+
+        <div class="modal-body-grid">
+          <!-- Columna Izquierda: Datos -->
+          <div class="modal-col">
+            <div class="form-group">
+              <label>Título *</label>
+              <div style="display: flex; gap: 0.5rem;">
+                <input type="text" name="titulo" required>
+                <button type="button" class="btn-accent" id="btn-auto-wiki" title="Autocompletar con Wikipedia">✨
+                  Auto</button>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label>Consola *</label>
+                <select name="consolaId" id="select-consola-form" required>
+                  <option value="">Selecciona una consola</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Estado</label>
+                <select name="estado">
+                  <option value="Usado">Usado</option>
+                  <option value="Nuevo">Nuevo</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group"><label>Género</label><input type="text" name="genero"></div>
+              <div class="form-group"><label>Año</label><input type="number" name="año"></div>
+            </div>
+            <div class="form-group"><label>Desarrollador/Fabricante</label><input type="text" name="fabricante"></div>
+
+            <div class="form-group">
+              <label>Descripción</label>
+              <textarea name="descripcion" rows="4"></textarea>
+            </div>
+          </div>
+
+          <!-- Columna Derecha: Carátulas -->
+          <div class="modal-col">
+            <label>Carátulas</label>
+            <div class="covers-manager">
+              <!-- Front -->
+              <div class="cover-slot">
+                <span>Frontal</span>
+                <div class="cover-preview" id="preview-front"></div>
+                <input type="hidden" name="coverFront">
+                <div class="cover-actions">
+                  <button type="button" class="btn-xs" onclick="selectImage('front')">📂</button>
+                  <button type="button" class="btn-xs" onclick="pasteUrl('front')">🌐</button>
+                </div>
+              </div>
+              <!-- Back -->
+              <div class="cover-slot">
+                <span>Trasera</span>
+                <div class="cover-preview" id="preview-back"></div>
+                <input type="hidden" name="coverBack">
+                <div class="cover-actions">
+                  <button type="button" class="btn-xs" onclick="selectImage('back')">📂</button>
+                  <button type="button" class="btn-xs" onclick="pasteUrl('back')">🌐</button>
+                </div>
+              </div>
+              <!-- Disc -->
+              <div class="cover-slot">
+                <span>Disco/Cartucho</span>
+                <div class="cover-preview" id="preview-disc"></div>
+                <input type="hidden" name="coverDisc">
+                <div class="cover-actions">
+                  <button type="button" class="btn-xs" onclick="selectImage('disc')">📂</button>
+                  <button type="button" class="btn-xs" onclick="pasteUrl('disc')">🌐</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" class="btn-secondary modal-close">Cancelar</button>
+          <button type="submit" class="btn-primary">Guardar</button>
+        </div>
+      </form>
+      </div>
+      </div>
+
+      <!-- Modal Consola -->
+      <div id="modal-consola" class="modal">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 id="modal-consola-title">Consola</h3>
+            <button class="modal-close">&times;</button>
+          </div>
+          <form id="form-consola">
+            <input type="hidden" name="id">
+            <div class="form-group">
+              <label>Nombre *</label>
+              <div style="display: flex; gap: 0.5rem;">
+                <input type="text" name="nombre" required>
+                <button type="button" class="btn-accent" id="btn-auto-wiki-consola"
+                  title="Autocompletar con Wikipedia">✨
+                  Auto</button>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group"><label>Fabricante</label><input type="text" name="fabricante"></div>
+              <div class="form-group"><label>Año</label><input type="number" name="año"></div>
+            </div>
+            <div class="form-group">
+              <label>Tipo</label>
+              <select name="tipo">
+                <option value="Sobremesa">Sobremesa</option>
+                <option value="Portátil">Portátil</option>
+                <option value="Híbrida">Híbrida</option>
+                <option value="Mini/Classic">Mini/Classic</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label>Imagen (URL/Local)</label>
+              <div style="display: flex; gap: 0.5rem;">
+                <input type="text" name="imagen">
+                <button type="button" class="btn-secondary" id="btn-img-consola">📂</button>
+              </div>
+            </div>
+            <div class="modal-actions">
+              <button type="button" class="btn-secondary modal-close">Cancelar</button>
+              <button type="submit" class="btn-primary">Guardar</button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <script src="renderer.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Production
+dist/
+build/
+*.exe
+*.dmg
+*.deb
+*.rpm
+*.zip
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db

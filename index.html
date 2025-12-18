@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Inventory</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css?v=2">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Sidebar: Navigation -->
+        <aside id="sidebar">
+            <div class="sidebar-header" style="padding: 1.5rem 1rem;">
+                <h1 style="font-size: 1.2rem; display: flex; align-items: center; gap: 0.5rem;">
+                    🔷 <span>Inventario</span>
+                </h1>
+                <div id="user-controls" style="margin-top: 1rem; padding-top: 0.5rem; border-top: 1px solid var(--border);"></div>
+            </div>
+
+            <nav id="nav-tree" style="flex: 1; overflow-y: auto; padding: 0.5rem;">
+                <!-- Dynamic Tree injected here -->
+            </nav>
+
+            <div class="sidebar-footer" style="padding: 1rem; border-top: 1px solid var(--border);">
+                <button id="btn-config" class="btn btn-ghost" style="width: 100%; text-align: left;">
+                    ⚙️ Configuración
+                </button>
+            </div>
+        </aside>
+
+        <!-- Workspace: Main View -->
+        <main id="workspace">
+            <header id="workspace-header"
+                style="padding: 1rem; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                    <h2 id="view-title">Inicio</h2>
+                    <p id="view-subtitle" style="color: var(--text-secondary); font-size: 0.9rem;">Bienvenido</p>
+                </div>
+                <div id="workspace-actions">
+                    <!-- Action Buttons -->
+                </div>
+            </header>
+
+            <div id="workspace-content" style="flex: 1; overflow-y: auto; padding: 1.5rem;">
+                <!-- Grid / Table / Forms -->
+            </div>
+        </main>
+    </div>
+
+    <!-- Global Modal Container -->
+    <div id="modal-container" class="modal-overlay">
+        <!-- Modals injected dynamically -->
+    </div>
+
+    <!-- Entry Point -->
+    <script type="module" src="js/app.js"></script>
+</body>
+
+</html>

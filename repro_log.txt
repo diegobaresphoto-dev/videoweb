@@ -1,0 +1,6 @@
+[711719832468] Snippet: Nueva consola de juegos: este videojuego de mano incorpora 230 rompecabezas educativo de nuevo diseño y juegos de ocio, carreras, lucha, aventura sin repetición. También viene con 3 cartuchos de juego, cada uno con un juego clásico separado.
+[711719832468] Raw Title Was: Juego de mano de 16 bits para niños y adultos, pantalla grande de 3.0 ...
+[711719832468] Fallback CLEAN Title: Juego de mano de 16 bits para niños y adultos, pantalla grande de 3.0 ...
+[5051893242614] Snippet: Tus videojuegos y videoconsolas favoritas en El Corte Ingles. Compra ya online. Gran selección en nuestra tienda de videojuegos.
+[5051893242614] Raw Title Was: Compra tu videojuego | Selección de videojuegos
+[5051893242614] Fallback CLEAN Title: Compra tu videojuego | Selección de videojuegos
