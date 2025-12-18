@@ -36,8 +36,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Build Web Version
-        run: node build_web.js
+      # - name: Build Web Version
+      #   run: node build_web.js
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
