@@ -728,6 +728,19 @@ export const ItemManager = {
                             const file = e.target.files[0];
                             if (!file) return;
 
+                            // WEB MODE FALLBACK
+                            if (!window.api) {
+                                const reader = new FileReader();
+                                reader.onload = (evt) => {
+                                    imgData.url = evt.target.result; // Use Base64 directly
+                                    console.log('Web Upload: Using Base64 Data URL');
+                                    renderGallery();
+                                };
+                                reader.readAsDataURL(file);
+                                return;
+                            }
+
+                            // ELECTRON MODE
                             try {
                                 const buffer = await file.arrayBuffer();
                                 const uint8Array = new Uint8Array(buffer);
@@ -738,26 +751,6 @@ export const ItemManager = {
                                     name: file.name
                                 });
 
-                                // Main process returns relative path "images/foo.jpg"
-                                // We need to resolve this to a full URL for the renderer to display it
-                                // But for portability, we store the relative path.
-                                // The renderer needs to know how to load "images/foo.jpg".
-                                // Electron doesn't serve local files easily without protocol handler
-                                // OR we can construct absolute path if we know DATA_DIR, 
-                                // but renderer doesn't know DATA_DIR location easily.
-                                // Temporary fix: Have main return absolute path for now for display, 
-                                // but we might store relative?
-
-                                // Actually, if we use properly constructed file:/// URL it works?
-                                // Let's rely on standard filesystem access if webSecurity is disabled or via protocol.
-
-                                // Let's check main.js again... it returns relative.
-                                // We need to prepend the known location?
-                                // Or, for now, let's just make main return the full path + '?' + Date to bust cache
-                                // WAIT: We can't access "Documents" easily from Renderer to build path.
-                                // Let's ask main to return full path.
-
-                                // Let's assume I'll fix main.js to return absolute in a second.
                                 imgData.url = savedPath; // Storing the path received
                                 renderGallery();
 
