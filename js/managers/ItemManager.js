@@ -712,16 +712,7 @@ export const ItemManager = {
                         fileInput.type = 'file';
                         fileInput.accept = 'image/*';
                         fileInput.style.display = 'none';
-                        fileInput.onchange = (e) => {
-                            const file = e.target.files[0];
-                            if (!file) return;
-                            const reader = new FileReader();
-                            reader.onload = (evt) => {
-                                imgData.url = evt.target.result;
-                                renderGallery();
-                            };
-                            reader.readAsDataURL(file);
-                        };
+                        // Handler removed - merged with main handler below
                         btnUpload.onclick = () => fileInput.click();
 
                         fileInput.onchange = async (e) => {
