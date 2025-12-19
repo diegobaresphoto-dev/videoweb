@@ -789,8 +789,38 @@ export const ItemManager = {
                 container.appendChild(contentMedia);
             },
             onSave: async () => {
-                await store.saveItem(draft);
-                return true;
+                // 1. Validation
+                const errors = [];
+                if (type && type.fields) {
+                    type.fields.forEach(usage => {
+                        if (usage.mandatory) {
+                            // Resolve key
+                            const def = (store.data.fieldDefinitions || []).find(d => d.id === usage.fieldId);
+                            const key = def ? def.key : (usage.key || usage.label);
+                            const label = def ? def.label : (usage.label || key);
+
+                            const val = draft.data[key];
+                            if (!val || String(val).trim() === '') {
+                                errors.push(`El campo "${label}" es obligatorio.`);
+                            }
+                        }
+                    });
+                }
+
+                if (errors.length > 0) {
+                    alert('Por favor corrige los siguientes errores:\n\n' + errors.join('\n'));
+                    return false; // Keep modal open
+                }
+
+                // 2. Save
+                try {
+                    await store.saveItem(draft);
+                    return true; // Close modal
+                } catch (e) {
+                    console.error('Save error:', e);
+                    alert('Error al guardar: ' + e.message);
+                    return false;
+                }
             }
         });
     },
